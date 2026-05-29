@@ -8,11 +8,13 @@
 
 Используйте промокод **`RED20`** при регистрации, чтобы получить **+500% к первому депозиту**. Это даст вам огромное преимущество и сотни дополнительных вращений!
 
+**Ваш промокод для старта:** `RED20`
+
 <br>
 
 <div align="center">
   <a href="https://lkbb.cc/7cc2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🚀_ЗАБРАТЬ_БОНУС_500%_ДЛЯ_THE_BIG_DOG_HOUSE-ff007f?style=for-the-badge&labelColor=111827&logoColor=white" alt="Бонус RED20 The Big Dog House" width="650" />
+    <img src="https://img.shields.io/badge/🐶_ИГРАТЬ_В_THE_BIG_DOG_HOUSE-ff007f?style=for-the-badge&labelColor=111827&logoColor=white" alt="Играть в The Big Dog House с промокодом RED20" width="600" />
   </a>
 </div>
 
